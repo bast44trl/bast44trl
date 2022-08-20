@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwindcss" alt="Tailwindcss" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" title="Prisma" alt="Prisma" width="120" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript"  alt="Typescript" width="60" height="60"/>&nbsp;
@@ -34,7 +35,7 @@
 
 - 👋 Hi, I’m @bast44trl
 - 👀 Full stack web developer from France
-- 💻 ReactJS / Material UI / Sass / TailWindCSS / NodeJS / Express / MySQL / Typescript / Git / VSCode
+- 💻 ReactJS / Material UI / Sass / TailWindCSS / NodeJS / Prisma / Express / MySQL / Typescript / Git / VSCode
 - 🌱 Former intern at Origins Digital
 - 📫 You can reach me by sending me an email at bastien.traille@gmail.com
 
