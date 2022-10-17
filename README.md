@@ -8,7 +8,13 @@
 </div>
 <div id="codewars" align="center">
   <a href="https://www.codewars.com/users/bast44trl">
-    <img src="https://www.codewars.com/users/bast44trl/badges/small" alt="" />
+    <img src="https://www.codewars.com/users/bast44trl/badges/large" alt="" />
+  </a>
+</div>
+<div id="codinggames" align="center">
+  <a href="https://www.codingame.com/profile/59b46e9db1d99ea026942016c45a43797318654
+">
+    <img src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQGE9993xm9Sdw/articleshare-shrink_800/0/1666028372519?e=1666634400&v=beta&t=UfGC6bb9IHhm4Bdn9Zm5_4rfVyXhgb3qReHzbYrmObA" alt="" height='80'/>
   </a>
 </div>
 <div align="center">
@@ -34,7 +40,7 @@
 ---
 
 - 👋 Hi, I’m @bast44trl
-- 👀 Full stack web developer from France
+- 👀 FrontEnd web developer with some backEnd notions
 - 💻 ReactJS / Material UI / Sass / TailWindCSS / NodeJS / Prisma / Express / MySQL / Typescript / Git / VSCode
 - 🌱 Former intern at Origins Digital
 - 📫 You can reach me by sending me an email at bastien.traille@gmail.com
